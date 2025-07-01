@@ -1,0 +1,12 @@
+{
+  "use_proxy": true,
+  "http_proxy": "http://127.0.0.1:1087",
+  "https_proxy": "http://127.0.0.1:1087",
+  "mysql": {
+    "host": "atomapp.cyou",
+    "port": 10306,
+    "user": "n8n",
+    "password": "Ab888888",
+    "database": "smepaf"
+  }
+}
